@@ -335,11 +335,11 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1010-robotics-premier-academy-mechatronics-robotics-316x159.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
@@ -352,12 +352,12 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/teamwork-1-1846x908.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
@@ -369,8 +369,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/first-canada-logo-1-273x124.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
