@@ -585,8 +585,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1373,9 +1373,9 @@ body {
   display: none;
 }
 .cid-qItwhdBGvU {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-color: #f7ed4a;
 }
 .cid-qItwhdBGvU .content-slider {
   display: flex;
@@ -1645,5 +1645,5 @@ body {
   text-align: center;
 }
 .cid-qItwhdBGvU .content-slider-wrap {
-  width: 60%;
+  width: 97%;
 }
